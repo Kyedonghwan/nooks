@@ -1,0 +1,30 @@
+{
+  "name": "uselibraries",
+  "version": "1.0.0",
+  "description": "React Hook to update your documents",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kyedonghwan/nooks.git"
+  },
+  "keywords": [
+    "react",
+    "react",
+    "hooks",
+    "hooks"
+  ],
+  "author": "Kyedonghwan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kyedonghwan/nooks/issues"
+  },
+  "homepage": "https://github.com/Kyedonghwan/nooks#readme",
+  "peerDependencies": {
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0",
+    "axios": "^0.27.2"
+  }
+}
